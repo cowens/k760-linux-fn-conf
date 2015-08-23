@@ -84,7 +84,7 @@ int main(int argc, char **argv)
 		       "   and/or\n"
 		       "     cat /sys/class/hidraw/hidraw*/device/uevent\n");
 		printf("-f <on|off>\n"
-		       "   To enable direct access to F-keys.\n");
+		       "   To enable direct access to F-keys (off) or media keys (on).\n");
 		printf("\n");
 	}
 
